@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {"question":"کدام تکنولوژی برای ساخت ساختار و محتوای اصلی یک صفحه وب استفاده می‌شود؟",
+         "options":[
+            "css",
+            "js",
+            "HTML",
+            "python"
+        ],
+        "type":"MCQs",
+        "answer":"HTML"},
+        {"question":"وقتی آدرس یک وب‌سایت را در مرورگر وارد می‌کنید، اولین فایلی که معمولاً بارگذاری می‌شود چیست؟",
+         "options":[
+            "style.css",
+            "script.js",
+            "datanase.db",
+            "index.html"
+        ],
+        "type":"MCQs",
+        "answer":"index.html"},
+        {"question":"کدام یک از گزينه های زیر فریم ورک فرانت اند محسوب میشود؟",
+         "options":[
+            "React",
+            "Django",
+            "Laravel",
+            "Node.js"
+        ],
+        "type":"MCQs",
+        "answer":"React"},
+        {"question":"وظیفه css در توسعه وب چیست؟",
+         "options":[
+            "افزایش تعامل و پویایی",
+            "تعریف ساختار و محتوا",
+            "استایل دهی و زیباسازی",
+            "ارتباط با سرور و پایگاه داده"
+        ],
+        "type":"MCQs",
+        "answer":"استایل دهی و زیباسازی"}
+    ]
+}
