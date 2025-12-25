@@ -1,5 +1,6 @@
 ![Quiz app screenshot](./quiz-app/Screenshot%20Quiz.png)
-# React Quiz App 🧠
+
+# React Quiz App 
 
 A simple quiz application built with React.
 
